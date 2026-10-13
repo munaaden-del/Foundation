@@ -1,0 +1,87 @@
+/* GROUP SELECTOR - WE USE A, */
+a, h1, p {
+  color: rgb(238, 56, 56) ;
+  text-decoration: underline;
+}
+/* ELEMENT SELECTOR - WE USE A TAG NAME */
+body {
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  baackground-image:url(JPG File)/* GROUP SELECTOR - WE USE A, */
+a, h1, p {
+  color: rgb(238, 56, 56) ;
+  text-decoration: underline;
+}
+/* ELEMENT SELECTOR - WE USE A TAG NAME */
+body {
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/*ID SELECTOR - WE USE # */
+#MYTABLE {
+  border-collapse: collapse;
+  width:100%;
+  background-color: lightblue;
+  background-image: url('path/to/image.jpg');
+}
+/* CLASS SELECTOR - WE USE . */
+.myList {
+  list-style-type:square;
+  color:darkgreen
+
+}
+/* UNIVERSAL SELECTOR - WE USE A* */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/*ATTRIBUTE SELECTOR - WE USE A [attribute] */
+p[class="first"] {
+  font-size: 20px;
+  color: green;
+}
+/* PSEUDO-CLASS SELECTOR - WE USE A :pseudo-class */
+
+.link:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+}
+
+/*ID SELECTOR - WE USE # */
+#MYTABLE {
+  border-collapse: collapse;
+  width:100%;
+  background-color: lightblue;
+  background-image: url('path/to/image.jpg');
+}
+/* CLASS SELECTOR - WE USE . */
+.myList {
+  list-style-type:square;
+  color:darkgreen
+
+}
+/* UNIVERSAL SELECTOR - WE USE A* */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/*ATTRIBUTE SELECTOR - WE USE A [attribute] */
+p[class="first"] {
+  font-size: 20px;
+  color: green;
+}
+/* PSEUDO-CLASS SELECTOR - WE USE A :pseudo-class */
+
+.link:hover {
+  color: red;
+  text-decoration: underline;
+}
