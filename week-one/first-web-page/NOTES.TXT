@@ -4,5 +4,9 @@ ls -a(linux) ls -Force(window) -> what is present in the currently accesed direc
 cd-> Allows one to navigate a step behind (to the parent folder)
 cd..-> allows one to navigate to a specific folder-name
 cd folder-name-> Allows one to create a folder in a specific directory
-mkdir folder-name -> Allows you to create a folder in a specific directory
+mkdir folder-name or 
+	New-Item filename.txt 
+ or ni filename.txt
+
+-> Allows you to create a folder in a specific directory
 touch file-name-> Allows you to create a file in the specific directory
